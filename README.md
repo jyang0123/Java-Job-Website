@@ -1,4 +1,4 @@
-# JavaJobWeb
+# Java Job Web
 Java Job Web Service Development
 
 Frontend: HTML, CSS, JavaScript
